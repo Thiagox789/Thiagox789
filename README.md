@@ -17,5 +17,3 @@ Welcome to my GitHub repository! I'm passionate about technology. Here you'll fi
 Thanks for visiting my repository! If you like what you see, feel free to leave a star ⭐ and contribute.
 
 ---
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-github-username.your-repository)
