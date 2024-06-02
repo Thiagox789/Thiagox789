@@ -2,15 +2,8 @@
 
 ¡Bienvenido a mi repositorio de GitHub! Soy un apasionado de la tecnología, el desarrollo de software y la innovación. Me encanta aprender y compartir mis conocimientos con la comunidad. Aquí encontrarás algunos de mis proyectos personales, contribuciones y experimentos.
 
-## 🚀 Sobre mí
-
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto]**.
-- 🌱 Estoy aprendiendo **[Tecnología o habilidad que estás aprendiendo]**.
-- 👯 Estoy buscando colaborar en **[Tipo de proyectos en los que te gustaría colaborar]**.
-- 🤔 Estoy buscando ayuda con **[Área donde necesitas ayuda o colaboración]**.
-- 💬 Pregúntame sobre **[Temas sobre los que te gusta hablar]**.
-- 📫 Cómo contactarme: **[tu correo electrónico o redes sociales]**.
-- ⚡ Dato curioso: **[Algún dato curioso sobre ti]**.
+## 🚀 About Me
+- ⚡ Fun fact: **[i like linux]**.
 
 ## 🛠️ Tecnologías y herramientas
 
