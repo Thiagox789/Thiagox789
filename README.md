@@ -6,6 +6,16 @@
 
 <img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
+## 🛠️ Contribution Activity
+
+<div align="center">
+    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiagox789&theme=vue" alt="Contribution Activity"/>
+    <br/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiagox789&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+</div>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
+
 ## 🛠️ Technologies and Tools
 
 <div align="center">
@@ -29,17 +39,6 @@
 
 <img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
-## 🛠️ Contribution Activity
-
-<div align="center">
-    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiagox789&theme=vue" alt="Contribution Activity"/>
-    <br/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiagox789&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
-</div>
-
-<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
-
 ---
 
 Thanks for visiting my repository! If you like what you see, feel free to leave a star ⭐ and contribute.
-
