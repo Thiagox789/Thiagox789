@@ -14,6 +14,22 @@ Welcome to my GitHub repository! I'm passionate about technology. Here you'll fi
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+    <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
+</div>
+
+### 🛠️ Contribution Activity
+<div align="center">
+    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=vue" alt="Contribution Activity"/>
+    <br/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+</div>
+
+---
+
 Thanks for visiting my repository! If you like what you see, feel free to leave a star ⭐ and contribute.
 
 ---
